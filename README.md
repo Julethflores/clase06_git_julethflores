@@ -1,1 +1,3 @@
-# clase06_git_julethflores
+#control de la version desde el terminal
+DATOS PERSONALES
+Juleth Flores
